@@ -1,0 +1,135 @@
+body{
+    text-align: center;
+    border: 2px solid; 
+    border-style: outset;  
+    background-repeat: repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+button{
+    background-color: black;
+    color: white;
+    margin-left: 60px;
+}
+
+.numbers{
+    margin-right: 500px; 
+    border-bottom: 500px;
+    border-top:100px;
+    position: relative;
+    top: 50px;
+}
+
+h1{
+   color: #ff0000; 
+   margin-left: 150px;   
+}
+
+h3{
+    margin-left: 40px;
+} 
+
+.learnmore{
+    background-color:rgba(255, 0, 0, 0.671);
+    color: white;
+    position: relative;
+    right: 260px;    
+}
+
+.learnmore1{
+    background-color:rgba(255, 0, 0, 0.671);
+    color: white;
+    position: relative;
+    left: 550px;
+    bottom:  200px;
+}
+
+.book1{
+    background-color: black;
+    color: white;
+    position: relative;
+    bottom: 350px;
+} 
+
+.box{
+    width: 1000px;
+    height: 200px;
+    text-align: center;
+    background-color: red;
+    background-image: url("images/plan.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-radius: 0 0 130px 130px;
+    margin-left: 150px;
+    margin-bottom: 100px;   
+}
+#home{
+    font-weight: 1000;   
+}
+
+.committed{
+    margin-left: 70px;
+}
+
+.legacy{
+    position: relative;
+    right: 150px;
+    bottom: 60px;
+}
+
+.family{
+    position: relative;
+    left: 120px;
+    bottom: 130px;
+}
+
+.skilled{
+    position: relative;
+    left: 410px;
+    bottom: 217px;
+}
+
+.container{
+    width: 200px;
+    height: 300px;
+    margin-left: 350px;
+    margin-top: 100px;        
+}
+   
+.container1{
+    width: 400px;
+    height: 100px;
+    margin: 20px 0 200px 400px;
+    text-align: left;
+    background-image: url("images/el.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;   
+}
+
+.residential{
+    position: relative;
+    right: 200px;
+}
+
+.commercial{
+    position: relative;
+    left: 300px;
+    bottom: 200px;
+}
+
+.container2{
+    width: 300px;
+    height: 200px;
+    margin: 0 0 100px 300px;
+}
+
+.container3{
+    width: 300px;
+    height: 200px;
+    margin: 0 0 100px 600px;
+    position: relative;
+    bottom: 300px;
+    left: 150px;
+}

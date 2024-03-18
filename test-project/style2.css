@@ -1,0 +1,38 @@
+body{
+    
+    background-image: url("")
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: Arial, sans-serif;
+}
+button{
+    background-color: red;
+    color: white;
+}
+ .press{
+    background-color: gray;
+    color: white;
+ }  
+h1{
+    color: rgb(47, 255, 175);
+    margin-left: 500px;
+ 
+    background-position: center;
+    background 
+}
+p{
+   border-style:outset; 
+   border-width: 3px;
+   border-radius: 1px;
+   border-color: gold; 
+   background-color:beige;
+}
+.textarea{
+    width:200px;
+    height: 50px;
+    border: 1px solid;
+    padding: 5px;
+    font-family: Arial, sans-serif;
+    font-size: 14px
+}
+
